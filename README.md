@@ -7,7 +7,8 @@ Components
 Requirements
 pip install langchain langchain-google-genai fastapi uvicorn langserve sse_starlette
 
-Running the Demo
+
+**Running the App**
 
 Start the server:
 python server.py
